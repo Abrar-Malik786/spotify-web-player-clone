@@ -225,9 +225,6 @@ display:flex;
     width:25%;
     background-color: yellow;
 }
-.player-control-icon{
-    height:1rem;
-}
 .player-controls{
     display:flex;
     justify-content:center;
